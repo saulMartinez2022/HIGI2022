@@ -3,5 +3,7 @@ Repositorio del curso de Herramientas Informáticas y Gestión de la Informació
 
 Contenido:
 
-1. Primera clase uso de Github
-2.-
+1. Primera clase 
+
+2. Uso de Github
+
